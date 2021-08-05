@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Busca Global em Catálogos de Streaming
 
-`CURSO`
+`SISTEMAS DE INFORMAÇÃO`
 
-`DISCIPLINA`
+`TECNOLOGIAS WEB`
 
-`SEMESTRE`
+`5º PERÍODO/6º PERÍODO`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A ideia é desenvolver uma plataforma, desktop ou mobile, para realizar pesquisas globais em vários serviços de streaming online pelo conteúdo que a pessoa esteja procurando, sendo série ou filme. A intenção do grupo é integrar a maior quantidade de serviços possíveis, por meio de APIs, fazendo com que as pesquisas e o acervo sejam mais completos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Carlos Eduardo Ferreira Papa
+* Felipe Eduardo de Barros
+* Luan Alves Ferreira
+* Lucas Lemos Pinheiro
+* Robert Medeiros Vieira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Kleber Jacques Ferreira de Souza
 
 ## Instruções de utilização
 
